@@ -6,6 +6,8 @@ import java.util.List;
 public class Result {
 
     private String msg;
+
+
     private HouseHold houseHold;
     private String url;
     private List<HouseHold> list = new ArrayList<HouseHold>();
